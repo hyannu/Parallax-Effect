@@ -64,6 +64,18 @@ section{
     height: 500px;
 
 }
+.desc{
+    position: absolute;
+    background-color: white;
+    padding: 0.5rem 2.5rem;
+    top:50%;
+    left:50%;
+    transform: translateX(-50%) translateX(-50%);
+    color:black;
+    font-size: 3.5rem;
+    font-weight: 600;
+
+}
 
 
 .bg1{
