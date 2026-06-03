@@ -44,5 +44,16 @@ section{
     background-color: rgb(45,45,45);
     color:white;
     padding: 5rem 0;
+}
 
+.bg1{
+    background-image: url(sport-1.jpeg);
+}
+
+.bg2{
+    background-image: url(sport-2.jpeg);
+}
+
+.bg3{
+    background-image: url(sport-3.jpeg);
 }
