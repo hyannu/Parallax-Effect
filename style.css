@@ -4,13 +4,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-"Add wrapper styles with perspective and scrolling"
+/* "Add wrapper styles with perspective and scrolling" */
 #wrapper{
     height:100vh;
     overflow-y:auto;
     overflow-x:hidden;
     perspective:10px;
 }
+"Add container CSS with flex and 3D transform"
 .container{
      position: relative;
      height: 100%;
